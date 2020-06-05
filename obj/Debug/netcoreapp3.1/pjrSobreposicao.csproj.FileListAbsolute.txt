@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\pjrSobreposicao\bin\Debug\netcoreapp3.1\pjrSobreposicao.exe
+C:\Users\HOME\Documents\pjrSobreposicao\bin\Debug\netcoreapp3.1\pjrSobreposicao.deps.json
+C:\Users\HOME\Documents\pjrSobreposicao\bin\Debug\netcoreapp3.1\pjrSobreposicao.runtimeconfig.json
+C:\Users\HOME\Documents\pjrSobreposicao\bin\Debug\netcoreapp3.1\pjrSobreposicao.runtimeconfig.dev.json
+C:\Users\HOME\Documents\pjrSobreposicao\bin\Debug\netcoreapp3.1\pjrSobreposicao.dll
+C:\Users\HOME\Documents\pjrSobreposicao\bin\Debug\netcoreapp3.1\pjrSobreposicao.pdb
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.AssemblyInfo.cs
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.dll
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.pdb
+C:\Users\HOME\Documents\pjrSobreposicao\obj\Debug\netcoreapp3.1\pjrSobreposicao.genruntimeconfig.cache
