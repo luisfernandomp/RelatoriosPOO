@@ -6,7 +6,11 @@ namespace pjrSobreposicao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Anual a = new Anual();
+            Mensal m = new Mensal();
+
+            a.MostrarRelatorio();
+            m.MostrarRelatorio();
         }
     }
 }
